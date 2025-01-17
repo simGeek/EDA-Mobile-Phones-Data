@@ -1,4 +1,4 @@
-# Mobile-Phones-Data-EDA
+# EDA-Mobile-Phones-Data
 
 This dataset is downloaded from kaggle. It consists of the following 17 columns:
 
